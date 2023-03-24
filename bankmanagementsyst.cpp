@@ -17,9 +17,9 @@ class bank{
 
  void bank :: open_account(){
     cout<<"Enter Your FULL_NAME:"<<endl;
-    getline(cin,name);
+    getline(cin,name)<<endl;
       cout<<"Enter Your Address:"<<endl;
-       getline(cin,addr);
+       getline(cin,addr)<<endl;
        cout<<"What type of account you want to open: saving(s) or current(c)"<<endl;
        cin>>y;
        cout<<"Enter amount to be deposit:"<<endl;
