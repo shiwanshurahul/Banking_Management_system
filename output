@@ -1,0 +1,23 @@
+tmp/9KZ8E7ayiQ.o
+1) open Account
+2) Deposit money 
+3) Withdraw money
+4) Display Account
+5) EXIT
+Select the Options from Above
+1
+1) Open Account:
+Enter Your FULL_NAME:
+shiwanshu
+Enter Your Address:
+Darbhanga
+What type of account you want to open: saving(s) or current(c)
+s
+Enter amount to be deposit:
+45000
+Your Account is successfully created
+Do you want to select next option then press :: y
+If you want to exit then press :: N 
+N
+Exited successsfully
+Thankyou!
