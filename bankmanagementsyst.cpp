@@ -94,6 +94,7 @@ class bank{
      if(x=='N' || x== 'n')
      exit(0);
      } while(x=='y' || x=='Y');
-
+           
+      cout<<"Exited successfully\n Thankyou! "<<endl;
     return 0;
 }
